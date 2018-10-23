@@ -1,0 +1,199 @@
+kode_provinsi,nama_provinsi,status_gizi,persen_status_gizi
+11,"Prov. Nanggroe Aceh Darussalam","Pendek Kurus",3.1
+11,"Prov. Nanggroe Aceh Darussalam","Pendek Normal",26.1
+11,"Prov. Nanggroe Aceh Darussalam","Pendek Gemuk",9.2
+11,"Prov. Nanggroe Aceh Darussalam","Normal Kurus",11.2
+11,"Prov. Nanggroe Aceh Darussalam","Normal Normal",47.2
+11,"Prov. Nanggroe Aceh Darussalam","Normal Gemuk",3.2
+12,"Prov. Sumatera Utara","Pendek Kurus",3.1
+12,"Prov. Sumatera Utara","Pendek Normal",28.3
+12,"Prov. Sumatera Utara","Pendek Gemuk",10.2
+12,"Prov. Sumatera Utara","Normal Kurus",11.2
+12,"Prov. Sumatera Utara","Normal Normal",41.4
+12,"Prov. Sumatera Utara","Normal Gemuk",5.9
+13,"Prov. Sumatera Barat","Pendek Kurus",1.2
+13,"Prov. Sumatera Barat","Pendek Normal",25.6
+13,"Prov. Sumatera Barat","Pendek Gemuk",5.7
+13,"Prov. Sumatera Barat","Normal Kurus",6.9
+13,"Prov. Sumatera Barat","Normal Normal",59.2
+13,"Prov. Sumatera Barat","Normal Gemuk",1.4
+14,"Prov. Riau","Pendek Kurus",1.7
+14,"Prov. Riau","Pendek Normal",20.7
+14,"Prov. Riau","Pendek Gemuk",7.7
+14,"Prov. Riau","Normal Kurus",15.6
+14,"Prov. Riau","Normal Normal",46.9
+14,"Prov. Riau","Normal Gemuk",7.3
+15,"Prov. Jambi","Pendek Kurus",3.1
+15,"Prov. Jambi","Pendek Normal",22.2
+15,"Prov. Jambi","Pendek Gemuk",4.3
+15,"Prov. Jambi","Normal Kurus",16.8
+15,"Prov. Jambi","Normal Normal",49.6
+15,"Prov. Jambi","Normal Gemuk",4.1
+16,"Prov. Sumatera Selatan","Pendek Kurus",2
+16,"Prov. Sumatera Selatan","Pendek Normal",27.2
+16,"Prov. Sumatera Selatan","Pendek Gemuk",10.3
+16,"Prov. Sumatera Selatan","Normal Kurus",12.8
+16,"Prov. Sumatera Selatan","Normal Normal",43.9
+16,"Prov. Sumatera Selatan","Normal Gemuk",3.8
+17,"Prov. Bengkulu","Pendek Kurus",1.2
+17,"Prov. Bengkulu","Pendek Normal",20.8
+17,"Prov. Bengkulu","Pendek Gemuk",7.7
+17,"Prov. Bengkulu","Normal Kurus",16.2
+17,"Prov. Bengkulu","Normal Normal",48.1
+17,"Prov. Bengkulu","Normal Gemuk",6
+18,"Prov. Lampung","Pendek Kurus",1.6
+18,"Prov. Lampung","Pendek Normal",24.2
+18,"Prov. Lampung","Pendek Gemuk",8.7
+18,"Prov. Lampung","Normal Kurus",12.4
+18,"Prov. Lampung","Normal Normal",47.4
+18,"Prov. Lampung","Normal Gemuk",5.7
+19,"Prov. Kepulauan Bangka Belitung","Pendek Kurus",2.3
+19,"Prov. Kepulauan Bangka Belitung","Pendek Normal",22.7
+19,"Prov. Kepulauan Bangka Belitung","Pendek Gemuk",4.2
+19,"Prov. Kepulauan Bangka Belitung","Normal Kurus",5.1
+19,"Prov. Kepulauan Bangka Belitung","Normal Normal",61
+19,"Prov. Kepulauan Bangka Belitung","Normal Gemuk",4.9
+21,"Prov. Kepulauan Riau","Pendek Kurus",2.1
+21,"Prov. Kepulauan Riau","Pendek Normal",17.9
+21,"Prov. Kepulauan Riau","Pendek Gemuk",4.9
+21,"Prov. Kepulauan Riau","Normal Kurus",6
+21,"Prov. Kepulauan Riau","Normal Normal",64.3
+21,"Prov. Kepulauan Riau","Normal Gemuk",4.8
+31,"Prov. DKI Jakarta","Pendek Kurus",.4
+31,"Prov. DKI Jakarta","Pendek Normal",15.8
+31,"Prov. DKI Jakarta","Pendek Gemuk",8.4
+31,"Prov. DKI Jakarta","Normal Kurus",10.8
+31,"Prov. DKI Jakarta","Normal Normal",54.5
+31,"Prov. DKI Jakarta","Normal Gemuk",10.1
+32,"Prov. Jawa Barat","Pendek Kurus",1.4
+32,"Prov. Jawa Barat","Pendek Normal",23.4
+32,"Prov. Jawa Barat","Pendek Gemuk",8.4
+32,"Prov. Jawa Barat","Normal Kurus",9.4
+32,"Prov. Jawa Barat","Normal Normal",52.7
+32,"Prov. Jawa Barat","Normal Gemuk",4.8
+33,"Prov. Jawa Tengah","Pendek Kurus",1.3
+33,"Prov. Jawa Tengah","Pendek Normal",23.9
+33,"Prov. Jawa Tengah","Pendek Gemuk",7.8
+33,"Prov. Jawa Tengah","Normal Kurus",12.5
+33,"Prov. Jawa Tengah","Normal Normal",49.4
+33,"Prov. Jawa Tengah","Normal Gemuk",5.1
+34,"Prov. D I Yogyakarta","Pendek Kurus",.4
+34,"Prov. D I Yogyakarta","Pendek Normal",16.3
+34,"Prov. D I Yogyakarta","Pendek Gemuk",5.2
+34,"Prov. D I Yogyakarta","Normal Kurus",8.8
+34,"Prov. D I Yogyakarta","Normal Normal",61.3
+34,"Prov. D I Yogyakarta","Normal Gemuk",8
+35,"Prov. Jawa Timur","Pendek Kurus",1.6
+35,"Prov. Jawa Timur","Pendek Normal",24.2
+35,"Prov. Jawa Timur","Pendek Gemuk",9.7
+35,"Prov. Jawa Timur","Normal Kurus",12.4
+35,"Prov. Jawa Timur","Normal Normal",46.4
+35,"Prov. Jawa Timur","Normal Gemuk",5.7
+36,"Prov. Banten","Pendek Kurus",2.3
+36,"Prov. Banten","Pendek Normal",24.9
+36,"Prov. Banten","Pendek Gemuk",6.5
+36,"Prov. Banten","Normal Kurus",11.9
+36,"Prov. Banten","Normal Normal",50.6
+36,"Prov. Banten","Normal Gemuk",3.8
+51,"Prov. Bali","Pendek Kurus",.9
+51,"Prov. Bali","Pendek Normal",18.7
+51,"Prov. Bali","Pendek Gemuk",8.6
+51,"Prov. Bali","Normal Kurus",12.6
+51,"Prov. Bali","Normal Normal",51.9
+51,"Prov. Bali","Normal Gemuk",7.3
+52,"Prov. Nusa Tenggara Barat","Pendek Kurus",5.3
+52,"Prov. Nusa Tenggara Barat","Pendek Normal",36.4
+52,"Prov. Nusa Tenggara Barat","Pendek Gemuk",6.8
+52,"Prov. Nusa Tenggara Barat","Normal Kurus",9
+52,"Prov. Nusa Tenggara Barat","Normal Normal",40.1
+52,"Prov. Nusa Tenggara Barat","Normal Gemuk",2.5
+53,"Prov. Nusa Tenggara Timur","Pendek Kurus",4.9
+53,"Prov. Nusa Tenggara Timur","Pendek Normal",44.3
+53,"Prov. Nusa Tenggara Timur","Pendek Gemuk",9.7
+53,"Prov. Nusa Tenggara Timur","Normal Kurus",8.3
+53,"Prov. Nusa Tenggara Timur","Normal Normal",31.9
+53,"Prov. Nusa Tenggara Timur","Normal Gemuk",1
+61,"Prov. Kalimantan Barat","Pendek Kurus",5.3
+61,"Prov. Kalimantan Barat","Pendek Normal",28.9
+61,"Prov. Kalimantan Barat","Pendek Gemuk",4.6
+61,"Prov. Kalimantan Barat","Normal Kurus",11.9
+61,"Prov. Kalimantan Barat","Normal Normal",44.4
+61,"Prov. Kalimantan Barat","Normal Gemuk",5
+62,"Prov. Kalimantan Tengah","Pendek Kurus",3.9
+62,"Prov. Kalimantan Tengah","Pendek Normal",31.1
+62,"Prov. Kalimantan Tengah","Pendek Gemuk",4.6
+62,"Prov. Kalimantan Tengah","Normal Kurus",11.7
+62,"Prov. Kalimantan Tengah","Normal Normal",45.1
+62,"Prov. Kalimantan Tengah","Normal Gemuk",3.6
+63,"Prov. Kalimantan Selatan","Pendek Kurus",2.5
+63,"Prov. Kalimantan Selatan","Pendek Normal",26.6
+63,"Prov. Kalimantan Selatan","Pendek Gemuk",4.9
+63,"Prov. Kalimantan Selatan","Normal Kurus",12.5
+63,"Prov. Kalimantan Selatan","Normal Normal",49.3
+63,"Prov. Kalimantan Selatan","Normal Gemuk",4.2
+64,"Prov. Kalimantan Timur","Pendek Kurus",2.1
+64,"Prov. Kalimantan Timur","Pendek Normal",22.7
+64,"Prov. Kalimantan Timur","Pendek Gemuk",3.2
+64,"Prov. Kalimantan Timur","Normal Kurus",10.8
+64,"Prov. Kalimantan Timur","Normal Normal",55.4
+64,"Prov. Kalimantan Timur","Normal Gemuk",5.7
+71,"Prov. Sulawesi Utara","Pendek Kurus",2.2
+71,"Prov. Sulawesi Utara","Pendek Normal",21.2
+71,"Prov. Sulawesi Utara","Pendek Gemuk",3.9
+71,"Prov. Sulawesi Utara","Normal Kurus",6.8
+71,"Prov. Sulawesi Utara","Normal Normal",62.5
+71,"Prov. Sulawesi Utara","Normal Gemuk",3.5
+72,"Prov. Sulawesi Tengah","Pendek Kurus",4.3
+72,"Prov. Sulawesi Tengah","Pendek Normal",25.8
+72,"Prov. Sulawesi Tengah","Pendek Gemuk",5
+72,"Prov. Sulawesi Tengah","Normal Kurus",10.4
+72,"Prov. Sulawesi Tengah","Normal Normal",51.9
+72,"Prov. Sulawesi Tengah","Normal Gemuk",2.7
+73,"Prov. Sulawesi Selatan","Pendek Kurus",2.6
+73,"Prov. Sulawesi Selatan","Pendek Normal",32.8
+73,"Prov. Sulawesi Selatan","Pendek Gemuk",3.9
+73,"Prov. Sulawesi Selatan","Normal Kurus",9.3
+73,"Prov. Sulawesi Selatan","Normal Normal",49.2
+73,"Prov. Sulawesi Selatan","Normal Gemuk",2.1
+74,"Prov. Sulawesi Tenggara","Pendek Kurus",3.7
+74,"Prov. Sulawesi Tenggara","Pendek Normal",25.6
+74,"Prov. Sulawesi Tenggara","Pendek Gemuk",7.2
+74,"Prov. Sulawesi Tenggara","Normal Kurus",13.4
+74,"Prov. Sulawesi Tenggara","Normal Normal",44
+74,"Prov. Sulawesi Tenggara","Normal Gemuk",6.1
+75,"Prov. Gorontalo","Pendek Kurus",4.5
+75,"Prov. Gorontalo","Pendek Normal",31.5
+75,"Prov. Gorontalo","Pendek Gemuk",4.7
+75,"Prov. Gorontalo","Normal Kurus",7
+75,"Prov. Gorontalo","Normal Normal",49.6
+75,"Prov. Gorontalo","Normal Gemuk",2.9
+76,"Prov. Sulawesi Barat","Pendek Kurus",4.2
+76,"Prov. Sulawesi Barat","Pendek Normal",29.8
+76,"Prov. Sulawesi Barat","Pendek Gemuk",6.3
+76,"Prov. Sulawesi Barat","Normal Kurus",13.1
+76,"Prov. Sulawesi Barat","Normal Normal",42.9
+76,"Prov. Sulawesi Barat","Normal Gemuk",3.6
+81,"Prov. Maluku","Pendek Kurus",4
+81,"Prov. Maluku","Pendek Normal",28.4
+81,"Prov. Maluku","Pendek Gemuk",5.4
+81,"Prov. Maluku","Normal Kurus",9.4
+81,"Prov. Maluku","Normal Normal",50.8
+81,"Prov. Maluku","Normal Gemuk",2
+82,"Prov. Maluku Utara","Pendek Kurus",1.9
+82,"Prov. Maluku Utara","Pendek Normal",25.3
+82,"Prov. Maluku Utara","Pendek Gemuk",2.3
+82,"Prov. Maluku Utara","Normal Kurus",15.8
+82,"Prov. Maluku Utara","Normal Normal",52.3
+82,"Prov. Maluku Utara","Normal Gemuk",2.4
+91,"Prov. Papua Barat","Pendek Kurus",2.6
+91,"Prov. Papua Barat","Pendek Normal",37.1
+91,"Prov. Papua Barat","Pendek Gemuk",9.2
+91,"Prov. Papua Barat","Normal Kurus",8.6
+91,"Prov. Papua Barat","Normal Normal",38.5
+91,"Prov. Papua Barat","Normal Gemuk",4.1
+94,"Prov. Papua","Pendek Kurus",2.3
+94,"Prov. Papua","Pendek Normal",22.1
+94,"Prov. Papua","Pendek Gemuk",4.6
+94,"Prov. Papua","Normal Kurus",11.4
+94,"Prov. Papua","Normal Normal",54.5
+94,"Prov. Papua","Normal Gemuk",5.1
